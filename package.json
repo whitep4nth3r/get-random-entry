@@ -1,6 +1,6 @@
 {
   "name": "@whitep4nth3r/get-random-entry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A single function to retrieve a random entry from an array",
   "main": "index.js",
   "scripts": {
